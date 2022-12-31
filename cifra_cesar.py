@@ -1,5 +1,5 @@
 mensagem = str(input('Digite a mensagem: '))
-mensagem_criptografada = 'HVWRX HPSROJDGR FRP R FXUVR GH SBWKRQ'
+mensagem_criptografada = ''
 
 for char in mensagem:
     if char != ' ':
